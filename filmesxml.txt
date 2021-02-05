@@ -1,0 +1,15 @@
+<item>
+<title>[COLOR white][I][B][COLOR lime]»»[/COLOR] FILMES LEGENDADOS 2020[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2019/12/filmes-2019-cinema.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://od.lk/s/OF8xNjY4MTQ0NjBf/Filmes.Legendados%20-%20J4PEDCte.txt</externallink>
+</item>
+ 
+<item>
+<title>[COLOR white][I][B][COLOR lime]»»[/COLOR] FILMES LEGENDADOS 2021[/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2019/12/filmes-2019-cinema.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/pJjNmYtS</externallink>
+</item>
